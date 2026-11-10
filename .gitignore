@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.npz
+*.bvh
+*.png
+*.mp4
+checkpoints/
+outputs/
+tmp/
+.DS_Store
